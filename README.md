@@ -30,7 +30,6 @@ Self-made C++ **file archiver** and **archive extractor** programs based on Huff
   * [Compressor](#compressor)
   * [Decompressor](#decompressor)
 * [How to use it?](#how-to-use-it)
-* [Versions](#versions)
 
 ## How does it work?
 _You can check out documentation inside [Compressor.cpp](https://github.com/shie-ld/huffman-coding/blob/master/Compressor.cpp) and [Decompressor.cpp](https://github.com/shie-ld/huffman-coding/blob/master/Decompressor.cpp) files to help you understand Huffman's algorithm's inner workings._
